@@ -1,3 +1,2 @@
 Hi! This is a test file!
-
-Made a new change!
+Check done! Everything working smoothly!
